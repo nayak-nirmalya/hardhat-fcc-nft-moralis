@@ -5,6 +5,11 @@
 2. Sell Page:
    1. You can list your NFTs on the marketplace
 
+MORALIS:
+
+1. Connect it to local blockchain
+2. Which contract, which events and what to do when it hears those events.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
