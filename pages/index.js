@@ -1,6 +1,5 @@
 import { useMoralisQuery, useMoralis } from 'react-moralis'
 import NFTBox from '../components/NFTBox'
-import styles from '../styles/Home.module.css'
 
 export default function Home() {
   const { isWeb3Enabled } = useMoralis()
